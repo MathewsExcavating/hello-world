@@ -1,2 +1,5 @@
 # hello-world
-starter code with github
+
+First readme code and doing some edits.
+
+Let's see how this shit works.
